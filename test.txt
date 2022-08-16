@@ -1,0 +1,19 @@
+dszzsijust for test 8.16
+INSERT
+git add test
+gi add test.txt
+git add test.txt
+cd
+%cd
+
+stop vi
+vi save
+Zdsad
+if i want to quit, how??
+ccccdcd
+cd
+cd
+cd
+ZZ
+ZQ
+
